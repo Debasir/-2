@@ -1,0 +1,12 @@
+C:\Users\Danil\source\repos\Max2\Max2\bin\Debug\netcoreapp3.1\Max2.exe
+C:\Users\Danil\source\repos\Max2\Max2\bin\Debug\netcoreapp3.1\Max2.deps.json
+C:\Users\Danil\source\repos\Max2\Max2\bin\Debug\netcoreapp3.1\Max2.runtimeconfig.json
+C:\Users\Danil\source\repos\Max2\Max2\bin\Debug\netcoreapp3.1\Max2.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\Max2\Max2\bin\Debug\netcoreapp3.1\Max2.dll
+C:\Users\Danil\source\repos\Max2\Max2\bin\Debug\netcoreapp3.1\Max2.pdb
+C:\Users\Danil\source\repos\Max2\Max2\obj\Debug\netcoreapp3.1\Max2.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\Max2\Max2\obj\Debug\netcoreapp3.1\Max2.AssemblyInfo.cs
+C:\Users\Danil\source\repos\Max2\Max2\obj\Debug\netcoreapp3.1\Max2.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Max2\Max2\obj\Debug\netcoreapp3.1\Max2.dll
+C:\Users\Danil\source\repos\Max2\Max2\obj\Debug\netcoreapp3.1\Max2.pdb
+C:\Users\Danil\source\repos\Max2\Max2\obj\Debug\netcoreapp3.1\Max2.genruntimeconfig.cache
